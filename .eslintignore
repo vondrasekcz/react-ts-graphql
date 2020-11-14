@@ -1,0 +1,6 @@
+# folders
+/node_modules
+/build
+
+# generated
+/src/apollo/graphql.ts
